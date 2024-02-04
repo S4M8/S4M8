@@ -1,9 +1,10 @@
 
 <div align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300" height="200" />
-</div>
 
 [![]( https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/murrea-code/)
+</div>
+
 # 💾 Technologies and Tools 
 ![](https://img.shields.io/badge/C%23-239120?style=plastic&logo=c-sharp&logoColor=white&label=C-Sharp)
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white&label=)
@@ -35,12 +36,11 @@
 ![](https://img.shields.io/badge/PowerShell-5391FE?style=plastic&logo=powershell&logoColor=white&label=)
 ![](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white&label=)
 
-
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neon-nomad&theme=ocean_dark&layout=compact&langs_count=6" alt="github language stats">
+  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=neon-nomad&theme=ocean_dark&layout=compact&langs_count=6" alt="github language stats">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=neon-nomad&count_private=true&show_icons=true&theme=ocean_dark" alt="github user stats">
+  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=neon-nomad&count_private=true&show_icons=true&theme=ocean_dark" alt="github user stats">
 </a>
 
 <!-- 
