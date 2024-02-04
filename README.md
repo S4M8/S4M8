@@ -34,16 +34,32 @@
 ![](https://img.shields.io/badge/PowerShell-5391FE?style=plastic&logo=powershell&logoColor=white&label=)
 ![](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white&label=)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neon-nomad&hide=html,css,hack&theme=algolia)
 
-![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neon-nomad&theme=algolia)
-<!-- <h2>GitHub Stats</h2>
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neon-nomad&theme=ocean_dark&layout=compact&langs_count=6" alt="github language stats">
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=neon-nomad&count_private=true&show_icons=true&theme=ocean_dark" alt="github user stats">
+</a>
 
 
+<!--
+ <h2>GitHub Stats</h2>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neon-nomad&hide=html,css,hack&theme=algolia)
 
 ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neon-nomad&theme=algolia) 
 
+<div>
+  <a href="https://tryhackme.com/p/spaceburrito187" target="_blank">
+    <img align="center" src="https://tryhackme-badges.s3.amazonaws.com/spaceburrito187.png" alt="TryHackMe">
+  </a>
+</div>
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rochellelewis&theme=radical&layout=compact&langs_count=6" alt="github language stats">
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rochellelewis&count_private=true&show_icons=true&theme=radical" alt="github user stats">
+</a>
 
 
 # 🔨 Currently Working On...
