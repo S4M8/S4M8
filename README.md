@@ -37,10 +37,10 @@
 ![](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white&label=)
 
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=neon-nomad&theme=ocean_dark&layout=compact&langs_count=6" alt="github language stats">
+  <img align="center" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=neon-nomad&theme=ocean_dark&layout=compact&langs_count=6" alt="github language stats">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=neon-nomad&count_private=true&show_icons=true&theme=ocean_dark" alt="github user stats">
+  <img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=neon-nomad&count_private=true&show_icons=true&theme=ocean_dark" alt="github user stats">
 </a>
 
 <!-- 
