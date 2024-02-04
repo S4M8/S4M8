@@ -1,9 +1,10 @@
-<!-- <img alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width="200"/> -->
+
 <div align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" height="200" />
 </div>
 
-# 💾 Technologies and Tools
+[![]( https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/murrea-code/)
+# 💾 Technologies and Tools 
 ![](https://img.shields.io/badge/C%23-239120?style=plastic&logo=c-sharp&logoColor=white&label=C-Sharp)
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white&label=)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black&label=)
@@ -42,13 +43,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=neon-nomad&count_private=true&show_icons=true&theme=ocean_dark" alt="github user stats">
 </a>
 
+<!-- 
 
-<!--
+
+<img alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width="200"/> 
  <h2>GitHub Stats</h2>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neon-nomad&hide=html,css,hack&theme=algolia)
-
 ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neon-nomad&theme=algolia) 
-
 <div>
   <a href="https://tryhackme.com/p/spaceburrito187" target="_blank">
     <img align="center" src="https://tryhackme-badges.s3.amazonaws.com/spaceburrito187.png" alt="TryHackMe">
@@ -60,34 +61,21 @@
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rochellelewis&count_private=true&show_icons=true&theme=radical" alt="github user stats">
 </a>
-
-
 # 🔨 Currently Working On...
-
 - Organizes and categorizes a user's personal library using information fetched from Google's open Books API 
 - Current features include search by genre, create unique collections, display current read, and browse new books
 - Next steps: add books to collections, search by additional criteria, and mark books as finished, implement state management library (Zustand)
-
-
 ![](https://img.shields.io/static/v1?label=Code&message=React&color=df6d74&?style=plastic&logo=react)
 ![](https://img.shields.io/static/v1?label=Code&message=HTML5&color=df6d74&?style=plastic&logo=html5)
 ![](https://img.shields.io/static/v1?label=Code&message=CSS3&color=df6d74&?style=plastic&logo=css3)
 ![](https://img.shields.io/static/v1?label=Learning&message=Zustand&color=df6d74&?style=plastic&logo=zustand)
-
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skuenzi&repo=library&theme=onedark)](https://github.com/skuenzi/library)
-
 The portfolio staple - the retail website. I'm using the Real-store API from RapidApi to grab Amazon products. Next steps are to implement a blog section and create a faux payment system.
-
 ![](https://img.shields.io/static/v1?label=Code&message=React&color=df6d74&?style=plastic&logo=react)
 ![](https://img.shields.io/static/v1?label=Code&message=HTML5&color=df6d74&?style=plastic&logo=html5)
 ![](https://img.shields.io/static/v1?label=Code&message=CSS3&color=df6d74&?style=plastic&logo=css3)
 ![](https://img.shields.io/static/v1?label=Code&message=Styled-Components&color=df6d74&?style=plastic&logo=styledcomponents)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skuenzi&repo=retail-app&theme=onedark)](https://github.com/skuenzi/retail-app)
-
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
