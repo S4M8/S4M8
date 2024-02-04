@@ -13,7 +13,7 @@
 ![](https://img.shields.io/badge/ASP.NET-5C2D91?style=plastic&logo=.net&logoColor=white&label=)
 ![](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white&label=)
 ![](https://img.shields.io/badge/Laravel-FF2D20?style=plastic&logo=laravel&logoColor=white&label=)
-![](https://img.shields.io/badge/Svelte-FF3E00?plastic&logo=svelte&logoColor=white&label=)
+![](https://img.shields.io/badge/Svelte-FF3E00?style=plastic&logo=svelte&logoColor=white&label=)
 ![](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB&label=)
 
 ![](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white&label=)
