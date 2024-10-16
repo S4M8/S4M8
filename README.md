@@ -1,10 +1,10 @@
 
 <div align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300" height="200" />
-<!-- 
-[![]( https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)]()
+
+
 </div>
--->
+
 # 💾 Technologies and Tools 
 ![](https://img.shields.io/badge/C%23-239120?style=plastic&logo=c-sharp&logoColor=white&label=C-Sharp)
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white&label=)
@@ -77,7 +77,7 @@ The portfolio staple - the retail website. I'm using the Real-store API from Rap
 ![](https://img.shields.io/static/v1?label=Code&message=Styled-Components&color=df6d74&?style=plastic&logo=styledcomponents)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skuenzi&repo=retail-app&theme=onedark)](https://github.com/skuenzi/retail-app)
 Here are some ideas to get you started:
-
+[![]( https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)]()
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
