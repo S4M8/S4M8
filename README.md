@@ -1,10 +1,10 @@
 
 <div align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300" height="200" />
-
+<!-- 
 [![]( https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)]()
 </div>
-
+-->
 # 💾 Technologies and Tools 
 ![](https://img.shields.io/badge/C%23-239120?style=plastic&logo=c-sharp&logoColor=white&label=C-Sharp)
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white&label=)
