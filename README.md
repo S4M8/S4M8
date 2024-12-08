@@ -6,6 +6,7 @@
 </div>
 
 # 💾 Technologies and Tools 
+![Rust](https://img.shields.io/badge/Rust-20232A?plastic&logo=rust&logoColor=white)
 ![](https://img.shields.io/badge/C%23-239120?style=plastic&logo=c-sharp&logoColor=white&label=C-Sharp)
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white&label=)
 ![](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white&label=)
@@ -13,7 +14,7 @@
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black&label=)
 ![](https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white&label=)
 -->
-
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?plastic&logo=tauri&logoColor=black)
 ![](https://img.shields.io/badge/ASP.NET-5C2D91?style=plastic&logo=.net&logoColor=white&label=)
 ![](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white&label=)
 ![](https://img.shields.io/badge/Svelte-FF3E00?style=plastic&logo=svelte&logoColor=white&label=)
