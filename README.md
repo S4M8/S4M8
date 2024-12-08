@@ -7,9 +7,9 @@
 
 # 💾 Technologies and Tools 
 ![Rust](https://img.shields.io/badge/Rust-20232A?style=plastic&logo=rust&logoColor=white)
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white&label=)
 ![](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white&label=)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 <!-- 
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black&label=)
 ![](https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white&label=)
