@@ -7,8 +7,7 @@
 
 # 💾 Technologies and Tools 
 ![Rust](https://img.shields.io/badge/Rust-20232A?style=plastic&logo=rust&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=plastic&logo=csharp&logoColor=white)
-![](https://img.shields.io/badge/C%23-239120?style=plastic&logo=c-sharp&logoColor=white&label=C-Sharp)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white&label=)
 ![](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white&label=)
 <!-- 
@@ -42,8 +41,7 @@
 ![](https://img.shields.io/badge/Terraform-623CE4?style=plastic&logo=terraform&logoColor=white&label=)
 ![](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white&label=)
 ![](https://img.shields.io/badge/Bash-4EAA25?style=plastic&logo=gnu-bash&logoColor=white&label=)
-![](https://img.shields.io/badge/PowerShell-5391FE?style=plastic&logo=powershell&logoColor=white&label=)
-![](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white&label=)
+[![Nix](https://img.shields.io/badge/Nix-5277C3.svg?&logo=NixOS&logoColor=white)](#)
 
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
   <img align="center" height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4m8&theme=ocean_dark&layout=compact&langs_count=6" alt="github language stats">
