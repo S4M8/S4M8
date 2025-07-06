@@ -2,7 +2,7 @@
 <div align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300" height="200" />
 
-
+<!-- 
 </div>
 
 # 💾 Technologies and Tools 
@@ -10,21 +10,21 @@
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white&label=)
 ![](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white&label=)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
-<!-- 
+
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black&label=)
 ![](https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white&label=)
--->
+
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=plastic&logo=tauri&logoColor=black)
 ![](https://img.shields.io/badge/ASP.NET-5C2D91?style=plastic&logo=.net&logoColor=white&label=)
 ![](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white&label=)
 ![](https://img.shields.io/badge/Svelte-FF3E00?style=plastic&logo=svelte&logoColor=white&label=)
 
-<!-- 
+
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black&label=)
 ![](https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white&label=)
 ![](https://img.shields.io/badge/Laravel-FF2D20?style=plastic&logo=laravel&logoColor=white&label=)
 ![](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB&label=)
--->
+
 
 ![](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white&label=)
 ![](https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=sqlite&logoColor=white&label=)
@@ -49,8 +49,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
   <img align="center" height=180 src="https://github-readme-stats.vercel.app/api?username=s4m8&count_private=true&show_icons=true&theme=ocean_dark" alt="github user stats">
 </a>
-
-<!-- 
 
 
 <img alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width="200"/> 
